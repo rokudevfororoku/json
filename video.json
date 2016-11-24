@@ -1,0 +1,19 @@
+{
+    "ContentType":"movie",
+    "SDPosterUrl":"file://pkg:/imagenes/poster_bunny_small.jpg",
+    "HDPosterUrl":"file://pkg:/imagenes/poster_bunny_small.jpg",
+    "IsHD":false,
+    "HDBranded":false,
+    "ShortDescriptionLine1":"Big Buck Bunny",
+    "ShortDescriptionLine2":"",
+    "Description":"Big Buck Bunny es nuestro video localizado en el servidor web configurado en nuestra computadora.",
+    "Rating":"AA",
+    "StarRating":80,
+    "Length":600,
+    "Categories":["Animacion", "Infantil"],
+    "Title":"Big Buck Bunny",
+    "urls":["http://10.0.0.129/roku/videos/cortos/big_buck_bunny.mov"],
+    "bitrates":[0],
+    "qualities":["SD"],
+    "streamformat":"mp4"
+}
